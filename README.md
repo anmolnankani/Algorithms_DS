@@ -1,2 +1,3 @@
 # Algorithms_DS
-Basic data structures &amp; algorithms (Java) to show CS fundamentals.
+
+Simple Java implementations: Binary Search, Merge Sort, Stack examples — helpful for interviews and problem solving practice.
